@@ -1,16 +1,40 @@
-# Secure your Repository&#39;s Supply Chain
+# AWS-konto – Vlad Edition 
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
-
-Hey AlexB1974!
-
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
-
-Remember, it's self-paced so feel free to take a break! ☕️
-
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/AlexB1974/skills-secure-repository-supply-chain-v2/issues/1)
+Detta projekt innehåller en steg-för-steg-guide för att skapa ett Amazon Web Services (AWS)-konto, skrivet med tydlighet och en nypa humor.
 
 ---
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+##  Syfte
 
+Att hjälpa nya användare att skapa ett AWS-konto från grunden, inklusive:
+- Registrering
+- Grundläggande säkerhetsinställningar
+- Aktivering av gratis support
+- Tips för att undvika oväntade kostnader
+
+---
+
+##  Förutsättningar
+
+Innan du börjar, se till att du har:
+- En giltig e-postadress
+- Ett kredit- eller betalkort (för verifiering)
+- Tillgång till din mobiltelefon för tvåfaktorsautentisering
+
+---
+
+##  Steg för att skapa ett konto
+
+1. **Gå till [aws.amazon.com](https://aws.amazon.com/) och klicka på “Create an AWS Account”**
+2. **Ange din e-postadress och välj ett säkert lösenord**
+3. **Ge ditt konto ett namn (t.ex. VladCloud)**
+4. **Verifiera din identitet med kort och telefon**
+5. **Välj “Basic Support” (gratis)**
+6. **Aktivera Multi-Factor Authentication (MFA) för root-användaren**
+
+---
+
+##  Rekommenderade säkerhetsinställningar
+
+- Använd inte root-kontot för dagliga uppgifter
+- Skapa en IAM-användare med
